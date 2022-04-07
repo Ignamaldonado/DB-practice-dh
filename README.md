@@ -8,4 +8,4 @@ Necesitamos diseñar una base de datos relacional para almacenar información so
 
 # Resolucion
 
-La verdad no me aparecio el script.sql en dbeaver y cuando lo vi estaba en blanco asi que lo que hice fue copiar los ddl de la db y las tablas y despues hacer los insert a mano mientras los comentarios los agarre del de tarea, PD: me acabo de dar cuenta que no puse las FK en notes_category en el ER por si lo revisan y no llegue a cambiarlo
+La verdad no me aparecio el script.sql en dbeaver y cuando lo vi estaba en blanco asi que lo que hice fue copiar los ddl de la db y las tablas y despues hacer los insert a mano mientras los comentarios los agarre del de tarea.
